@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: dffbfb47cbd71474d96e8d4a149179cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8701625599685393927
+    second: OpenDyslexicMono-01_0
+  - first:
+      213: 2529123518981723025
+    second: OpenDyslexicMono-01_1
+  - first:
+      213: -2423360374335887489
+    second: OpenDyslexicMono-01_2
+  - first:
+      213: -1310259569567925987
+    second: OpenDyslexicMono-01_3
+  - first:
+      213: -1138148547483159612
+    second: OpenDyslexicMono-01_4
+  - first:
+      213: 7822839284797237329
+    second: OpenDyslexicMono-01_5
+  - first:
+      213: -6853124527090204131
+    second: OpenDyslexicMono-01_6
+  - first:
+      213: -7100875003233513220
+    second: OpenDyslexicMono-01_7
+  - first:
+      213: 4592710993802324554
+    second: OpenDyslexicMono-01_8
+  - first:
+      213: 3882533894650777652
+    second: OpenDyslexicMono-01_9
+  - first:
+      213: -8868592736091442221
+    second: OpenDyslexicMono-01_10
+  - first:
+      213: 3962437082004648444
+    second: OpenDyslexicMono-01_11
+  - first:
+      213: 2372997780560810070
+    second: OpenDyslexicMono-01_12
+  - first:
+      213: -4119188256400033692
+    second: OpenDyslexicMono-01_13
+  - first:
+      213: -7390499653663815894
+    second: OpenDyslexicMono-01_14
+  - first:
+      213: -4651167762082260582
+    second: OpenDyslexicMono-01_15
+  - first:
+      213: 7474407893992023383
+    second: OpenDyslexicMono-01_16
+  - first:
+      213: -1492785165394222444
+    second: OpenDyslexicMono-01_17
+  - first:
+      213: 15504977689577798
+    second: OpenDyslexicMono-01_18
+  - first:
+      213: -3719156515253563738
+    second: OpenDyslexicMono-01_19
+  - first:
+      213: -2173748462714366189
+    second: OpenDyslexicMono-01_20
+  - first:
+      213: 6817010533879867753
+    second: OpenDyslexicMono-01_21
+  - first:
+      213: -148176237848890877
+    second: OpenDyslexicMono-01_22
+  - first:
+      213: 5044729978655715298
+    second: OpenDyslexicMono-01_23
+  - first:
+      213: 797665842956516347
+    second: OpenDyslexicMono-01_24
+  - first:
+      213: -7045618266828388724
+    second: OpenDyslexicMono-01_25
+  - first:
+      213: 8812445704497091609
+    second: OpenDyslexicMono-01_26
+  - first:
+      213: 195551157041518744
+    second: OpenDyslexicMono-01_27
+  - first:
+      213: 4500709142171849667
+    second: OpenDyslexicMono-01_28
+  - first:
+      213: 4785650910939370583
+    second: OpenDyslexicMono-01_29
+  - first:
+      213: 1377416944424066988
+    second: OpenDyslexicMono-01_30
+  - first:
+      213: -2418274864999922595
+    second: OpenDyslexicMono-01_31
+  - first:
+      213: -7041789515315454321
+    second: OpenDyslexicMono-01_32
+  - first:
+      213: -2158089066400103585
+    second: OpenDyslexicMono-01_33
+  - first:
+      213: -2814918546977382829
+    second: OpenDyslexicMono-01_34
+  - first:
+      213: -7247519362890338497
+    second: OpenDyslexicMono-01_35
+  - first:
+      213: 8974529323039456012
+    second: OpenDyslexicMono-01_36
+  - first:
+      213: -1570091838201125425
+    second: OpenDyslexicMono-01_37
+  - first:
+      213: -2916461376820458777
+    second: OpenDyslexicMono-01_38
+  - first:
+      213: 4953768572102852427
+    second: OpenDyslexicMono-01_39
+  - first:
+      213: -5476003923960290693
+    second: OpenDyslexicMono-01_40
+  - first:
+      213: -5196398370830305889
+    second: OpenDyslexicMono-01_41
+  - first:
+      213: 8340676071621112388
+    second: OpenDyslexicMono-01_42
+  - first:
+      213: -3247618148553451665
+    second: OpenDyslexicMono-01_43
+  - first:
+      213: 2914900328716598260
+    second: OpenDyslexicMono-01_44
+  - first:
+      213: 6089654587881386001
+    second: OpenDyslexicMono-01_45
+  - first:
+      213: -1745588215618036245
+    second: OpenDyslexicMono-01_46
+  - first:
+      213: -9190853027461585550
+    second: OpenDyslexicMono-01_47
+  - first:
+      213: -6818395019302801627
+    second: OpenDyslexicMono-01_48
+  - first:
+      213: 7972286821663350139
+    second: OpenDyslexicMono-01_49
+  - first:
+      213: -4674328070496679245
+    second: OpenDyslexicMono-01_50
+  - first:
+      213: -8556844570836133931
+    second: OpenDyslexicMono-01_51
+  - first:
+      213: 6008179011752079675
+    second: OpenDyslexicMono-01_52
+  - first:
+      213: 2929188905481313578
+    second: OpenDyslexicMono-01_53
+  - first:
+      213: -4495743676140988930
+    second: OpenDyslexicMono-01_54
+  - first:
+      213: 7806023248080775531
+    second: OpenDyslexicMono-01_55
+  - first:
+      213: 8276453847381503307
+    second: OpenDyslexicMono-01_56
+  - first:
+      213: -7747159017815803068
+    second: OpenDyslexicMono-01_57
+  - first:
+      213: -2860025485129818320
+    second: OpenDyslexicMono-01_58
+  - first:
+      213: -2613434691205062060
+    second: OpenDyslexicMono-01_59
+  - first:
+      213: -8623118982348208692
+    second: OpenDyslexicMono-01_60
+  - first:
+      213: -656270004941612382
+    second: OpenDyslexicMono-01_61
+  - first:
+      213: -7706863986578948761
+    second: OpenDyslexicMono-01_62
+  - first:
+      213: 3123705225141094397
+    second: OpenDyslexicMono-01_63
+  - first:
+      213: 7249900364288273892
+    second: OpenDyslexicMono-01_64
+  - first:
+      213: -4706856334468611542
+    second: OpenDyslexicMono-01_65
+  - first:
+      213: 6404280762791956008
+    second: OpenDyslexicMono-01_66
+  - first:
+      213: -8885522260485147457
+    second: OpenDyslexicMono-01_67
+  - first:
+      213: 3820242918113196507
+    second: OpenDyslexicMono-01_68
+  - first:
+      213: -7353132867477765457
+    second: OpenDyslexicMono-01_69
+  - first:
+      213: 631755628388659365
+    second: OpenDyslexicMono-01_70
+  - first:
+      213: 5076703946647710288
+    second: OpenDyslexicMono-01_71
+  - first:
+      213: 3460933067024165554
+    second: OpenDyslexicMono-01_72
+  - first:
+      213: -8097514317667391038
+    second: OpenDyslexicMono-01_73
+  - first:
+      213: 3784438834440293404
+    second: OpenDyslexicMono-01_74
+  - first:
+      213: 5962975778273359603
+    second: OpenDyslexicMono-01_75
+  - first:
+      213: -8994864973691394749
+    second: OpenDyslexicMono-01_76
+  - first:
+      213: 2021082842299587629
+    second: OpenDyslexicMono-01_77
+  - first:
+      213: 6357289894584259553
+    second: OpenDyslexicMono-01_78
+  - first:
+      213: -5473794245384656160
+    second: OpenDyslexicMono-01_79
+  - first:
+      213: 2528378861099895074
+    second: OpenDyslexicMono-01_80
+  - first:
+      213: -7924467250347146063
+    second: OpenDyslexicMono-01_81
+  - first:
+      213: -6492351601851074996
+    second: OpenDyslexicMono-01_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18e4ace9d9d3780800000000000000
+      internalID: -8701625599685393927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193ddfdc070491320800000000000000
+      internalID: 2529123518981723025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a3fc349e7e5ed0800000000000000
+      internalID: -2423360374335887489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f8501dd501dde0800000000000000
+      internalID: -1310259569567925987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b3ad1deb7430f0800000000000000
+      internalID: -1138148547483159612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_5
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586f41e1ee409c60800000000000000
+      internalID: 7822839284797237329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_6
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1285415d8fc4e0a0800000000000000
+      internalID: -6853124527090204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_7
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d0dd7ecf947d90800000000000000
+      internalID: -7100875003233513220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_8
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6e9dc0569cbf30800000000000000
+      internalID: 4592710993802324554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_9
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d213b10881e530800000000000000
+      internalID: 3882533894650777652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_10
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f8a3f4ed6ce480800000000000000
+      internalID: -8868592736091442221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_11
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f8bd38876df630800000000000000
+      internalID: 3962437082004648444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_12
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6501e13a8e49ee020800000000000000
+      internalID: 2372997780560810070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_13
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b05eea14b5d6c0800000000000000
+      internalID: -4119188256400033692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_14
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2788b6b8bbaf6990800000000000000
+      internalID: -7390499653663815894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_15
+      rect:
+        serializedVersion: 2
+        x: 6930
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999656309bb37fb0800000000000000
+      internalID: -4651167762082260582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_16
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75525c3e06e6ab760800000000000000
+      internalID: 7474407893992023383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_17
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49264ba1dcf884be0800000000000000
+      internalID: -1492785165394222444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_18
+      rect:
+        serializedVersion: 2
+        x: 8316
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649007fe1b5173000800000000000000
+      internalID: 15504977689577798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_19
+      rect:
+        serializedVersion: 2
+        x: 8778
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4b34bad6e26cc0800000000000000
+      internalID: -3719156515253563738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_20
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317dbd84a4b45d1e0800000000000000
+      internalID: -2173748462714366189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_21
+      rect:
+        serializedVersion: 2
+        x: 9702
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969610666f2ea9e50800000000000000
+      internalID: 6817010533879867753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_22
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302fcda2f7291fdf0800000000000000
+      internalID: -148176237848890877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_23
+      rect:
+        serializedVersion: 2
+        x: 10626
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa98dff2b720640800000000000000
+      internalID: 5044729978655715298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_24
+      rect:
+        serializedVersion: 2
+        x: 11088
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb2e2abd0e11b00800000000000000
+      internalID: 797665842956516347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_25
+      rect:
+        serializedVersion: 2
+        x: 11550
+        y: 2425.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86c0bef38fe83e90800000000000000
+      internalID: -7045618266828388724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91457fa8da81c4a70800000000000000
+      internalID: 8812445704497091609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89850e2cdbcb6b200800000000000000
+      internalID: 195551157041518744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_28
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c391887e1bb57e30800000000000000
+      internalID: 4500709142171849667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_29
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d095e52c0a6240800000000000000
+      internalID: 4785650910939370583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_30
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1000c9619d1310800000000000000
+      internalID: 1377416944424066988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_31
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548c66a2df807ed0800000000000000
+      internalID: -2418274864999922595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_32
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5d8caeb9864e90800000000000000
+      internalID: -7041789515315454321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_33
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53419b9d6dec02e0800000000000000
+      internalID: -2158089066400103585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_34
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e11cfde766fe8d0800000000000000
+      internalID: -2814918546977382829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_35
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe728d983ab6b90800000000000000
+      internalID: -7247519362890338497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_36
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf716cedeeb8c70800000000000000
+      internalID: 8974529323039456012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_37
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc52847bac9e53ae0800000000000000
+      internalID: -1570091838201125425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_38
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea487174d5a687d0800000000000000
+      internalID: -2916461376820458777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_39
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3fa725425fb440800000000000000
+      internalID: 4953768572102852427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_40
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72a3bbb1735104b0800000000000000
+      internalID: -5476003923960290693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_41
+      rect:
+        serializedVersion: 2
+        x: 6930
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95bd33a63fa2e7b0800000000000000
+      internalID: -5196398370830305889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_42
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442b39342b800c370800000000000000
+      internalID: 8340676071621112388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_43
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671c5120842ee2d0800000000000000
+      internalID: -3247618148553451665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_44
+      rect:
+        serializedVersion: 2
+        x: 8316
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb72d8b76ec37820800000000000000
+      internalID: 2914900328716598260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_45
+      rect:
+        serializedVersion: 2
+        x: 8778
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1107f73559cc28450800000000000000
+      internalID: 6089654587881386001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_46
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9af334cc66c7e0800000000000000
+      internalID: -1745588215618036245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_47
+      rect:
+        serializedVersion: 2
+        x: 9702
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2752453edd7837080800000000000000
+      internalID: -9190853027461585550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_48
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fe928fad13061a0800000000000000
+      internalID: -6818395019302801627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_49
+      rect:
+        serializedVersion: 2
+        x: 10626
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d95c410a043ae60800000000000000
+      internalID: 7972286821663350139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_50
+      rect:
+        serializedVersion: 2
+        x: 11088
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8862b263712fb0800000000000000
+      internalID: -4674328070496679245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_51
+      rect:
+        serializedVersion: 2
+        x: 11550
+        y: 1617.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7151de23bff3980800000000000000
+      internalID: -8556844570836133931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b07e7af6516350800000000000000
+      internalID: 6008179011752079675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_53
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9a3f3ac196a820800000000000000
+      internalID: 2929188905481313578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_54
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5586e22f8eb91c0800000000000000
+      internalID: -4495743676140988930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_55
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ab4a39c0945c60800000000000000
+      internalID: 7806023248080775531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_56
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de6157ceedbd270800000000000000
+      internalID: 8276453847381503307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_57
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bff946bef8c7490800000000000000
+      internalID: -7747159017815803068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_58
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fd54e69f52f48d0800000000000000
+      internalID: -2860025485129818320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_59
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4522a03bef63bbbd0800000000000000
+      internalID: -2613434691205062060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_60
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5053909f6845880800000000000000
+      internalID: -8623118982348208692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_61
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa16b658e574e6f0800000000000000
+      internalID: -656270004941612382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_62
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df5b37908bb0590800000000000000
+      internalID: -7706863986578948761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_63
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df701972a51a95b20800000000000000
+      internalID: 3123705225141094397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_64
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda06e38f1dc9460800000000000000
+      internalID: 7249900364288273892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_65
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22833f0a13edaeb0800000000000000
+      internalID: -4706856334468611542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_66
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e05142c6390e850800000000000000
+      internalID: 6404280762791956008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_67
+      rect:
+        serializedVersion: 2
+        x: 6930
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f4f3e49840b480800000000000000
+      internalID: -8885522260485147457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_68
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b6d981ba340530800000000000000
+      internalID: 3820242918113196507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_69
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20db79d9c64f990800000000000000
+      internalID: -7353132867477765457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_70
+      rect:
+        serializedVersion: 2
+        x: 8316
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b5f6956274c800800000000000000
+      internalID: 631755628388659365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_71
+      rect:
+        serializedVersion: 2
+        x: 8778
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aa2c98753147640800000000000000
+      internalID: 5076703946647710288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_72
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bae063a944b70030800000000000000
+      internalID: 3460933067024165554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_73
+      rect:
+        serializedVersion: 2
+        x: 9702
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9abcb61a9df9f80800000000000000
+      internalID: -8097514317667391038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_74
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc101b117058430800000000000000
+      internalID: 3784438834440293404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_75
+      rect:
+        serializedVersion: 2
+        x: 10626
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6fd3c80eeb0c250800000000000000
+      internalID: 5962975778273359603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_76
+      rect:
+        serializedVersion: 2
+        x: 11088
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345658896f1db2380800000000000000
+      internalID: -8994864973691394749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_77
+      rect:
+        serializedVersion: 2
+        x: 11550
+        y: 809.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c57ec03245c0c10800000000000000
+      internalID: 2021082842299587629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e310ec0a71a93850800000000000000
+      internalID: 6357289894584259553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea254e922d2904b0800000000000000
+      internalID: -5473794245384656160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_80
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2294771ad2b961320800000000000000
+      internalID: 2528378861099895074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_81
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b487dc7503a60290800000000000000
+      internalID: -7924467250347146063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenDyslexicMono-01_82
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1.5
+        width: 462.1154
+        height: 808.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467ab6bd9886e5a0800000000000000
+      internalID: -6492351601851074996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e6dd7ee2a4c3afd41b4c759adf80a27b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

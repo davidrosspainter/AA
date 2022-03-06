@@ -1,0 +1,4 @@
+realtimeHack.10.11.17 is Fieldtrip's ring buffer facilitates real-time analysis of Unity game data in external programs. It can be used commercially under the BSD License.
+
+https://www.fieldtriptoolbox.org/development/realtime/buffer/
+https://www.fieldtriptoolbox.org/development/realtime/reference_implementation/

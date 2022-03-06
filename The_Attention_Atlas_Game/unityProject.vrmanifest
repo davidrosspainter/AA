@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.the_attention_atlas_game.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\aadev\\OpenAccessRelease2\\The_Attention_Atlas_Game\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "The_Attention_Atlas_Game [Testing]"
+        }
+      }
+    }
+  ]
+}

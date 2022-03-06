@@ -1,0 +1,14 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+py_gnuplot.egg-info/PKG-INFO
+py_gnuplot.egg-info/SOURCES.txt
+py_gnuplot.egg-info/dependency_links.txt
+py_gnuplot.egg-info/requires.txt
+py_gnuplot.egg-info/top_level.txt
+pygnuplot/__init__.py
+pygnuplot/gnuplot.py
+pygnuplot/pyplot.py

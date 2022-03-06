@@ -1,0 +1,63 @@
+Instructions 1
+Move your head to look directly at the circle...
+The arrow shows the direction you should move your head...
+Only small head movements are required...
+The arrow gets smaller when your head is in the correct position...
+
+Instructions 2
+When the arrow gets smaller press the thumb button once....
+The circle will then change colour to white....
+Move your head until the circle turns yellow, and then maintain that position...
+
+Instructions 3
+"Move your hand to point at the letter "T"...
+"When the letter turns yellow press the thumb button once..."
+"Please respond as quickly and accurately as you can..."
+
+Instructions 4
+"That was an L, please look for the letter "T
+
+Instructions 5
+Level 1 of 8
+
+Instructions 6
+Level 2 of 8
+
+Instructions 7
+Level 3 of 8
+
+Instructions 8
+Level 4 of 8
+
+Instructions 9
+Level 5 of 8
+
+Instructions 10
+Level 6 of 8
+
+Instructions 11
+Level 7 of 8
+
+Instructions 12
+Level 8 of 8
+
+Instructions13
+For this level, 4 minutes remain
+
+Instructions 14
+For this level, 3 minutes remain
+
+Instructions 15
+For this level, 2 minutes remain
+
+Instructions16
+For this level, 1 minute remains
+
+greatJob
+Great job!
+
+niceWork
+Nice work!
+
+wellDone
+Well done!
